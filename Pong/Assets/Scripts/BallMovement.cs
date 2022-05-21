@@ -10,7 +10,7 @@ public class BallMovement : MonoBehaviour
 
     private Rigidbody2D rb;
 
-    private float speed = 4f;
+    private float speed = 5f;
 
     void Start()
     {
